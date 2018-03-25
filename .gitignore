@@ -1,0 +1,6 @@
+src/main/resources/token.txt
+.idea/
+build/
+out/
+.gradle/
+!gradle/wrapper/gradle-wrapper.jar
